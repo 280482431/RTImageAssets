@@ -1,3 +1,4 @@
+3x 2x 自动补起图片
 RTImageAssets [![Build Status](https://travis-ci.org/rickytan/RTImageAssets.svg)](https://travis-ci.org/rickytan/RTImageAssets) [![License](http://img.shields.io/badge/license-MIT-yellowgreen.svg)](./LICENSE) [![](https://img.shields.io/gratipay/rickytan.svg)](https://gratipay.com/~rickytan/)
 =============
 
